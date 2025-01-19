@@ -49,7 +49,7 @@
 <hr/>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehan6541" alt="ishwari-Deshmukh"  /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="ishwari-Deshmukh"  /></a> </p>
 &nbsp;
 <hr>
 <h3 align="left">📊⚡GitHub Stats:</h3>
@@ -57,13 +57,11 @@
   <table>
     <tr>
       <td>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshwariDeshmukh26&show_icons=true&locale=en&layout=compact" alt="rehan-attar" width="300" height="200"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshwariDeshmukh26&show_icons=true&locale=en&layout=compact" alt="Ishwari-Deshmukh" width="300" height="200"  /></p>
   </td>
       <td>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IshwariDeshmukh26&show_icons=true&locale=en" alt="rehan-attar" width="300" height="200"/></p>
- </td>
       <td>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshwariDeshmukh26&" alt="rehan-attar" width="300" height="300"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshwariDeshmukh26&" alt="Ishwari-Deshmukh" width="300" height="300"/></p>
  </td>
     </tr>
   </table>
@@ -73,6 +71,4 @@
   <h2>🌟 Let's Connect! 🌟</h2>
   <p>Feel free to reach out for collaborations, projects, or just a friendly chat!</p>
 </div>
-<br/>
-You can click the Preview link to take a look at your changes.
---->
+
