@@ -1,4 +1,4 @@
-<h2 align="center">
+  <h2 align="center"><h2 align="center">
   Welcome to Ishwari's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-   "I believe in continuous learning and growth, which drives my passion for exploring new technologies and enhancing my skills. Currently, I am learning AIMl and Data Science with Python, building on my strong foundation in IT and programming. Proficient in Python, C, C++, MySQL, and web development. I am a creative individual who enjoys art.With a  keen interest in integrating AI/ML into real-world applications, my goal is to contribute to impactful solutions while continuously evolving in the tech domain <br>
+  ⚖️ "I believe in continuous learning and growth, which drives my passion for exploring new technologies and enhancing my skills. Currently, I am learning AIMl and Data Science with Python, building on my strong foundation in IT and programming. Proficient in Python, C, C++, MySQL, and web development. I am a creative individual who enjoys art.With a  keen interest in integrating AI/ML into real-world applications, my goal is to contribute to impactful solutions while continuously evolving in the tech domain <br>
   <br/>
  
 
@@ -49,7 +49,7 @@
 <hr/>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="ishwari-Deshmukh"  /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehan6541" alt="rehan-attar"  /></a> </p>
 &nbsp;
 <hr>
 <h3 align="left">📊⚡GitHub Stats:</h3>
@@ -60,6 +60,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshwariDeshmukh26&show_icons=true&locale=en&layout=compact" alt="Ishwari-Deshmukh" width="300" height="200"  /></p>
   </td>
       <td>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IshwariDeshmukh26&show_icons=true&locale=en" alt="Ishwari-Deshmukh" width="300" height="200"/></p>
+ </td>
       <td>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshwariDeshmukh26&" alt="Ishwari-Deshmukh" width="300" height="300"/></p>
  </td>
@@ -71,4 +73,5 @@
   <h2>🌟 Let's Connect! 🌟</h2>
   <p>Feel free to reach out for collaborations, projects, or just a friendly chat!</p>
 </div>
+<br/>
 
