@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  I believe in continuous learning and growth, which drives my passion for exploring new technologies and enhancing my skills. Currently, I am learning AIMl and Data Science with Python, building on my strong foundation in IT and programming. Proficient in Python, C, C++, MySQL, and web development. I am a creative individual who enjoys art.With a  keen interest in integrating AI/ML into real-world applications, my goal is to contribute to impactful solutions while continuously evolving in the tech domain <br>
+I believe in continuous learning and growth, which fuels my passion for exploring new technologies and enhancing my skills. Currently, I am learning AI/ML and Data Science with Python, building on my strong foundation in IT and programming. I am proficient in Python, C, C++, MySQL, and web development. Alongside my technical expertise, I am a creative individual who enjoys art. With a keen interest in integrating AI/ML into real-world applications, my goal is to contribute to impactful solutions while continuously evolving in the tech domain.<br>
   <br/>
  
 
