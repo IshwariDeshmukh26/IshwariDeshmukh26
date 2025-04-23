@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/06/6c/05/066c05cb620da63869c5d5a4b1e6f7cb.jpg" alt="banner" width="100%" style="border-radius:10px;" />
+  <img src="[https://i.pinimg.com/736x/06/6c/05/066c05cb620da63869c5d5a4b1e6f7cb.jpg](https://i.pinimg.com/736x/7f/ee/ba/7feeba709dfe8caf916e9a977852a289.jpg)" alt="banner" width="100%" style="border-radius:10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishwari Deshmukh</h1>
